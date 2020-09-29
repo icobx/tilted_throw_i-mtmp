@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_anim"
+        android:icon="@drawable/ic_nav_anim_24"
+        android:title="@string/nav_anim"/>
+
+    <item
+        android:id="@+id/nav_vis"
+        android:icon="@drawable/ic_nav_vis_24"
+        android:title="@string/nav_vis" />
+
+    <item
+        android:id="@+id/nav_chart"
+        android:icon="@drawable/ic_nav_chart_24"
+        android:title="@string/nav_chart" />
+</menu>

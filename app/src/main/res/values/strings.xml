@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tilted Throw</string>
+    <string name="temp_button_text">Shoot</string>
+    <string name="football">football</string>
+    <string name="nav_anim">Animation</string>
+    <string name="nav_vis">Visualisation</string>
+    <string name="nav_chart">Graph</string>
+    <string name="dataset_label">Y Points Over Time</string>
+    <string name="no_data_text">There is no data available.</string>
+    <string name="chart_desc">Values of heights of the ball over time.</string>
+    <string name="visualisation_of_calculated_values">Visualisation of Calculated Values</string>
+    <string name="vis_time">Time (.5 s)</string>
+    <string name="vis_x">Values of X</string>
+    <string name="vis_y">Values of Y</string>
+    <string name="empty_input">Enter entry speed and angle to start animation.</string>
+    <string name="speed_input_off">Enter speed in range of 0 to 10000.</string>
+    <string name="angle_input_off">Enter angle in range of 0 to 90.</string>
+    <string name="speed_input_hint">Speed</string>
+    <string name="angle_input_hint">Angle</string>
+</resources>
